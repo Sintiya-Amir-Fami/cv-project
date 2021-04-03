@@ -1,0 +1,113 @@
+
+*{
+
+
+    margin:0;
+    padding:0;
+}
+body{
+ 
+ background-color: rgb(228, 182, 122);
+    
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+.container{
+
+    max-width:1000px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding:20px;
+}
+
+header{
+
+
+}
+/*.profile image{
+
+    weidth:10px;
+    height:12px;
+    border:3px solid white;
+
+ border-radius: 50%;
+
+}*/
+h1,h2,h3,h4,h5,h6{
+    color:black;
+
+}
+.header-contact a{
+
+text-decoration:none ;
+color:rgb(55, 23, 238);
+font-weeight:bold;
+padding-bottom: 5px;
+
+
+}
+
+.header-contact a:hover{
+
+text-decoration:underline ;
+color:rgb(255, 80, 162);
+
+}
+.div-clear{
+    clear:both;
+}
+
+hr{ 
+    border:solid black 3px;
+    width:100%;
+    margin:200px auto;
+    
+}
+
+#personal-section{
+
+
+}
+.content{
+
+
+}
+
+.left-div{
+
+width:30%
+float:left;
+
+}
+
+.right-div{
+
+width:70%
+float:left;
+}
+
+  .common-hr{
+
+border: solid black 1px;
+border-bottom: none;
+width:100%;
+margin:20px auto;
+
+  }
+  .bottom-container{
+background-color: black;
+text-align:center;
+padding:10px;
+
+
+  }
+  .bottom-container a{
+
+color:white;
+text-decoration: none;
+margin:20px;
+padding:2px;
+
+  }
